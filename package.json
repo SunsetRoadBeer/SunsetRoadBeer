@@ -1,7 +1,7 @@
 {
 		"name": "sunsetroad",
 		"version": "0.1.0",
-		"homepage": "https://SydCristal.github.io/sunsetroad",
+		"homepage": "https://SunsetRoadBeer.github.io",
 		"private": true,
 		"dependencies": {
 				"@googlemaps/js-api-loader": "^1.16.2",
