@@ -71,7 +71,7 @@ const App = () => {
 }
 
 const StlApp = styled.div`
-		height: 100vh;
+		height: 100%;
 		overflow-y: auto;
 		overflow-x: hidden;
 		width: 100vw;

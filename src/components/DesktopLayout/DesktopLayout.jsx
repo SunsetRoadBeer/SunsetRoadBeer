@@ -50,7 +50,7 @@ const StlDesktopLayout = styled.div`
 		z-index: 1;
 		flex-direction: column;
 		min-height: ${C.MIN_DESKTOP_HEIGHT}px;
-		height: 100vh;
+		height: 100%;
 		transition: background 0.5s ease-in-out;
 `
 
