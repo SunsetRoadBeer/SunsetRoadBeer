@@ -5,8 +5,8 @@ import { SocialMediaLink } from './'
 const contactMap = {
 		facebook: 'https://www.facebook.com/people/SunsetroadBeer/100088255544244/',
 		instagram: 'https://www.instagram.com/sunsetroad.beer/',
-		whatsapp: 'https://wa.me/380973853940',
-		telegram: 'https://t.me/gasss77'
+		whatsapp: 'https://wa.me/6281237067305',
+		telegram: 'https://t.me/6281237067305'
 }
 
 const contactArray = Object.keys(contactMap)
