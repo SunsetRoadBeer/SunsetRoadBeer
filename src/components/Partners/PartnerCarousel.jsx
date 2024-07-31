@@ -121,7 +121,6 @@ const doublePartnerMap = {
 		Lolas: 'https://www.instagram.com/reel/CtTW90gxePE/?igsh=b3dzNjdwcHpiMWRv',
 		NowBeer: 'https://instagram.com/nowbeerbar?igshid=MzRlODBiNWFlZA==',
 		Mamu: 'https://www.instagram.com/mamu_bali?igsh=MTF3anAzOTg5cGMxYQ==',
-		WowBooze: 'https://www.wowbooze.com/',
 		Crayfish: 'https://www.instagram.com/crayfish_bar/?igshid=MzRlODBiNWFlZA%3D%3D'
 }
 
@@ -140,7 +139,8 @@ const singlePartnerMap = {
 		GrandHyatt: 'https://www.instagram.com/grandhyattbali?igsh=OWV3ZmZtbGtrejhq',
 		Hedonist: 'https://www.instagram.com/hedonist_space_bali?igsh=bHdkdWdic2NrMHdv',
 		Joy: 'https://www.instagram.com/joycafe.bali?igsh=MTYxZ2NpdHViamlxZg==',
-		Seed: 'https://www.instagram.com/seed_bali_?igsh=MXBwczlnNnkwMnY4aw=='
+		Seed: 'https://www.instagram.com/seed_bali_?igsh=MXBwczlnNnkwMnY4aw==',
+		TippsyShop: 'https://www.tippsyshop.com/'
 }
 
 export { PartnerCarousel }
