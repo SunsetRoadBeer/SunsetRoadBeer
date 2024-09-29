@@ -5,7 +5,7 @@ const DeliveryLink = ({ className }) => {
 		return (
 				<StlDeliveryLink
 						className={className}
-						href='https://www.tippsyshop.com/'
+						href='https://gofood.link/a/Ao3Epcb'
 						target='_blank'
 						rel='noreferrer' />
 		)
