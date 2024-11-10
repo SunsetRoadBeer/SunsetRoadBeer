@@ -121,7 +121,8 @@ const doublePartnerMap = {
 		Lolas: 'https://www.instagram.com/reel/CtTW90gxePE/?igsh=b3dzNjdwcHpiMWRv',
 		NowBeer: 'https://instagram.com/nowbeerbar?igshid=MzRlODBiNWFlZA==',
 		Mamu: 'https://www.instagram.com/mamu_bali?igsh=MTF3anAzOTg5cGMxYQ==',
-		Crayfish: 'https://www.instagram.com/crayfish_bar/?igshid=MzRlODBiNWFlZA%3D%3D'
+		Crayfish: 'https://www.instagram.com/crayfish_bar/?igshid=MzRlODBiNWFlZA%3D%3D',
+		Boogaloo: 'https://www.theboogaloobali.com/products/beer/'
 }
 
 const singlePartnerMap = {

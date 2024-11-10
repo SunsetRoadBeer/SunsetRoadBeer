@@ -5,7 +5,7 @@ const DeliveryLink = ({ className }) => {
 		return (
 				<StlDeliveryLink
 						className={className}
-						href='https://gofood.link/a/Ao3Epcb'
+						href='https://www.theboogaloobali.com/products/beer/'
 						target='_blank'
 						rel='noreferrer' />
 		)
